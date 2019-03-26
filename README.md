@@ -26,7 +26,7 @@ winston =>`Used winston to create Custom Debugger To identifiy the bug `
 2)  Use unit tests to validate the APIs => `I've tried to implement it using jest and learned how to test fucntion but didn't use it with API I'm still        trying to implement it `
 
 > 
-Run API-Express-Demo module using => `nodemon index.js`
+Run API-Express-Demo module using => first use command `npm install to create node_modules` then use command `nodemon index.js`
 >
 To Test => `I've used manual testing to test API using Swagger and Postman`
 >To Deploy => `Create a repository named API-Express-Demo then I'd cloned it to my system and write my code then add all files using {git add .} and then commit my changes using {git commit -m"message"} the push my repository using {git push} ` 
