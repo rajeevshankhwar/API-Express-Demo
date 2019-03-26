@@ -29,4 +29,4 @@ winston =>`Used winston to create Custom Debugger To identifiy the bug `
 Run API-Express-Demo module using => `nodemon index.js`
 >
 To Test => `I've used manual testing to test API using Swagger and Postman`
->To Deploy => `I've just upload this repository to github publically so anyone can clone the api and use it ` 
+>To Deploy => `Create a repository named API-Express-Demo then I'd cloned it to my system and write my code then add all files using {git add .} and then commit my changes using {git commit -m"message"} the push my repository using {git push} ` 
