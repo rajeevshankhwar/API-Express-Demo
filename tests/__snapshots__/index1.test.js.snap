@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`first Test 1`] = `[TypeError: index.get is not a function]`;

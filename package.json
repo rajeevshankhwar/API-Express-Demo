@@ -1,0 +1,22 @@
+{
+  "name": "express-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "express-validator": "^5.3.1",
+    "jsonwebtoken": "^8.5.1",
+    "promise-mysql": "^3.3.1",
+    "winston": "^3.2.1"
+  },
+  "devDependencies": {
+    "jest": "^24.5.0"
+  }
+}

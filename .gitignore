@@ -1,0 +1,8 @@
+node_modules/
+.log
+false
+public/*
+**/bundle.*.js
+bundle*
+yarn*.log
+*.hot-update.js
